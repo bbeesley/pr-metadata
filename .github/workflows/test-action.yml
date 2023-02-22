@@ -27,7 +27,9 @@ jobs:
 
       - name: run script
         shell: bash
-        run: echo "${{ toJSON(github) }}"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node test-script.mjs
 
       - name: get context
         shell: bash
