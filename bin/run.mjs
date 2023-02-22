@@ -21,7 +21,8 @@ const argv = yargs(hideBin(process.argv))
   })
   .parse();
 try {
-  await getChangedFiles(argv.json, argv.dirNames, argv.filter);
+  const result = await getChangedFiles(argv.json, argv.dirNames, argv.filter);
+  console.log(result);
 } catch (error) {
   console.error('fatal error', error.message, error.stack);
   process.exit(1); // eslint-disable-line unicorn/no-process-exit
