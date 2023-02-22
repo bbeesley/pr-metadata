@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/bbeesley/pr-metadata/compare/v1.0.0...v1.0.1) (2023-02-22)
+
+
+### Bug Fixes
+
+* print output to stdout when running as cli ([c612247](https://github.com/bbeesley/pr-metadata/commit/c612247bc96fc9223e9fba34cd43a9fdf8d889d7))
+
 # 1.0.0 (2023-02-22)
 
 
