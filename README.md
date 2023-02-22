@@ -1,3 +1,5 @@
+[![Build, Test & Publish Main](https://github.com/bbeesley/pr-metadata/actions/workflows/build-test-on-push.yml/badge.svg)](https://github.com/bbeesley/pr-metadata/actions/workflows/build-test-on-push.yml)
+
 # @beesley/pr-metadata
 
 A tool for reading information about pull requests within github actions. Works as a cli or as a node module.
