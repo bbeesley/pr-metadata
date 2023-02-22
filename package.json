@@ -1,6 +1,6 @@
 {
   "name": "@beesley/pr-metadata",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A cli tool for reading information about pull requests within github actions.",
   "type": "module",
   "publishConfig": {
