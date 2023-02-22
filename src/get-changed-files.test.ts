@@ -1,97 +1,92 @@
+import { readFile } from 'node:fs/promises';
+import * as url from 'node:url';
+import { resolve } from 'node:path';
 import test from 'ava';
+import nock from 'nock';
 import { getChangedFiles } from './get-changed-files.js';
 
-test.serial(
-  'returns filenames when no args passed',
-  async (t) => {
-    const result = await getChangedFiles();
-    const calls = mockS3.calls();
-    t.true(calls.length === 1);
-    const call = calls.shift();
-    const { Bucket, Key } = call?.args[0].input ?? {};
-    t.snapshot({ Bucket, Key });
-  },
+const __dirname = url.fileURLToPath(new URL('.', import.meta.url));
+
+process.env.GITHUB_ACTION = '__run_3';
+process.env.GITHUB_ACTOR = 'bbeesley';
+process.env.GITHUB_API_URL = 'https://api.github.com';
+process.env.GITHUB_EVENT_NAME = 'push';
+process.env.GITHUB_EVENT_PATH = resolve(
+  __dirname,
+  './__mocks__/pr-event-payload.json',
 );
-test.serial('uploads 2 assets to s3 when layers are enabled', async (t) => {
-  await packageAndUpload({
-    platform: Platform.AWS,
-    inputPath: './',
-    exclude: ['**/typescript/**'],
-    createLayer: true,
-    region: 'eu-central-1',
-    bucket: 'test-bucket',
-    functionKey: 'fn',
-    layerKey: 'layer',
+process.env.GITHUB_GRAPHQL_URL = 'https://api.github.com/graphql';
+process.env.GITHUB_JOB = 'terraform';
+process.env.GITHUB_REF = 'refs/heads/test-branch';
+process.env.GITHUB_REPOSITORY = 'bbeesley/pr-metadata';
+process.env.GITHUB_RUN_ID = '4242872541';
+process.env.GITHUB_RUN_NUMBER = '8';
+process.env.GITHUB_SERVER_URL = 'https://github.com';
+process.env.GITHUB_SHA = '39c9e593b846262419684277864dcc4703515c04';
+process.env.GITHUB_WORKFLOW = 'Test toolkit';
+process.env.GITHUB_TOKEN = 'token';
+
+let scope;
+
+test.serial.before(async () => {
+  const compareResponseData = await readFile(
+    resolve(__dirname, '__mocks__/compare-response-body.json'),
+    { encoding: 'utf8' },
+  );
+  scope = nock('https://api.github.com')
+    .get(/\/repos\/bbeesley\/pr-metadata\/compare\/.*/)
+    .reply(200, JSON.parse(compareResponseData))
+    .persist();
+  nock.emitter.on('no match', (request) => {
+    console.error('no match for request', request);
   });
-  const calls = mockS3.calls();
-  t.true(calls.length === 2);
-  const firstCall = calls.shift();
-  const { Bucket: FirstBucket, Key: FirstKey } = firstCall?.args[0].input ?? {};
-  t.snapshot({ Bucket: FirstBucket, Key: FirstKey });
-  const secondCall = calls.shift();
-  const { Bucket: SecondBucket, Key: SecondKey } =
-    secondCall?.args[0].input ?? {};
-  t.snapshot({ Bucket: SecondBucket, Key: SecondKey });
-});
-test.serial('wraps the layer node_modules in a nodejs directory', async (t) => {
-  await packageAndUpload({
-    platform: Platform.AWS,
-    inputPath: './',
-    exclude: ['**/typescript/**'],
-    createLayer: true,
-    region: 'eu-central-1',
-    bucket: 'test-bucket',
-    functionKey: 'fn',
-    layerKey: 'layer',
-  });
-  const calls = mockS3.calls();
-  t.true(calls.length === 2);
-  const secondCall = calls.pop();
-  const { Body } = secondCall?.args[0].input ?? {};
-  const buffer = await streamToBuffer(Body);
-  const zip = new JSZip();
-  const result = await zip.loadAsync(buffer);
-  const zipContent = Object.keys(result.files);
-  t.is(zipContent.shift(), 'nodejs/');
-  t.true(zipContent.every((name) => name.startsWith('nodejs/')));
 });
 
-test.serial('respects include globs', async (t) => {
-  await packageAndUpload({
-    platform: Platform.AWS,
-    inputPath: './',
-    include: ['*.json'],
-    exclude: ['node_modules/**'],
-    createLayer: false,
-    region: 'eu-central-1',
-    bucket: 'test-bucket',
-    functionKey: 'fn',
-  });
-  const calls = mockS3.calls();
-  const call = calls.pop();
-  const { Body } = call?.args[0].input ?? {};
-  const buffer = await streamToBuffer(Body);
-  const zip = new JSZip();
-  const result = await zip.loadAsync(buffer);
-  const zipContent = Object.keys(result.files);
-  t.truthy(zipContent.find((name) => name === 'package.json'));
+test.serial('returns filenames when no args passed', async (t) => {
+  const result = await getChangedFiles(true, false);
+  t.snapshot(result);
 });
-test.serial('respects exclude globs', async (t) => {
-  await packageAndUpload({
-    platform: Platform.AWS,
-    inputPath: './',
-    exclude: ['node_modules/**', '*.json'],
-    createLayer: false,
-    region: 'eu-central-1',
-    bucket: 'test-bucket',
-    functionKey: 'fn',
-  });
-  const calls = mockS3.calls();
-  const call = calls.pop();
-  const { Body } = call?.args[0].input ?? {};
-  const buffer = await streamToBuffer(Body);
-  const zip = new JSZip();
-  const result = await zip.loadAsync(buffer);
-  const zipContent = Object.keys(result.files);
-  t.falsy(zipContent.find((name) => name === 'package.json'));
+
+test.serial(
+  'returns directories when called with dirNames arg set to true',
+  async (t) => {
+    const result = await getChangedFiles(true, true);
+    t.snapshot(result);
+  },
+);
+
+test.serial(
+  'returns filenames array when called with dirNames arg set to false and json set to false',
+  async (t) => {
+    const result = await getChangedFiles(false, false);
+    t.snapshot(result);
+  },
+);
+
+test.serial(
+  'returns directories array when called with dirNames arg set to true and json set to false',
+  async (t) => {
+    const result = await getChangedFiles(false, true);
+    t.snapshot(result);
+  },
+);
+
+test.serial('filters filenames using exclude filter glob', async (t) => {
+  const result = await getChangedFiles(true, false, ['**', '!**/__mocks__/**']);
+  t.snapshot(result);
+});
+
+test.serial('filters filenames using include filter glob', async (t) => {
+  const result = await getChangedFiles(true, false, ['src/**']);
+  t.snapshot(result);
+});
+
+test.serial('filters directories using exclude filter glob', async (t) => {
+  const result = await getChangedFiles(true, true, ['**', '!**/__mocks__/**']);
+  t.snapshot(result);
+});
+
+test.serial('filters directories using include filter glob', async (t) => {
+  const result = await getChangedFiles(true, true, ['src/**']);
+  t.snapshot(result);
 });

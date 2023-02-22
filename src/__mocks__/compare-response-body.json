@@ -1,0 +1,716 @@
+{
+  "url": "https://api.github.com/repos/bbeesley/pr-metadata/compare/17f4aeabb86d681e987ec2cff237c94c9f2cfd5c...1b5d9e1f2ef8a0a4d19f3d21867e550752157fa2",
+  "html_url": "https://github.com/bbeesley/pr-metadata/compare/17f4aeabb86d681e987ec2cff237c94c9f2cfd5c...1b5d9e1f2ef8a0a4d19f3d21867e550752157fa2",
+  "permalink_url": "https://github.com/bbeesley/pr-metadata/compare/bbeesley:17f4aea...bbeesley:1b5d9e1",
+  "diff_url": "https://github.com/bbeesley/pr-metadata/compare/17f4aeabb86d681e987ec2cff237c94c9f2cfd5c...1b5d9e1f2ef8a0a4d19f3d21867e550752157fa2.diff",
+  "patch_url": "https://github.com/bbeesley/pr-metadata/compare/17f4aeabb86d681e987ec2cff237c94c9f2cfd5c...1b5d9e1f2ef8a0a4d19f3d21867e550752157fa2.patch",
+  "base_commit": {
+    "sha": "17f4aeabb86d681e987ec2cff237c94c9f2cfd5c",
+    "node_id": "C_kwDOJBAz39oAKDE3ZjRhZWFiYjg2ZDY4MWU5ODdlYzJjZmYyMzdjOTRjOWYyY2ZkNWM",
+    "commit": {
+      "author": {
+        "name": "Bill Beesley",
+        "email": "bill.beesley@soundcloud.com",
+        "date": "2023-02-22T14:05:42Z"
+      },
+      "committer": {
+        "name": "Bill Beesley",
+        "email": "bill.beesley@soundcloud.com",
+        "date": "2023-02-22T14:05:42Z"
+      },
+      "message": "ci: test toolkit update",
+      "tree": {
+        "sha": "2847b36ec26e671425e5f961022502aeae7bfcf9",
+        "url": "https://api.github.com/repos/bbeesley/pr-metadata/git/trees/2847b36ec26e671425e5f961022502aeae7bfcf9"
+      },
+      "url": "https://api.github.com/repos/bbeesley/pr-metadata/git/commits/17f4aeabb86d681e987ec2cff237c94c9f2cfd5c",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCAAdFiEEatbs3mQF9gdUc5/vdblGCPcGRngFAmP2ITYACgkQdblGCPcG\nRnj7aRAApwjQg0ZK6IRqyTELqQVb6DbYp5GFOoqz7vxcZ594uUDiJrpJ5CzozUBa\nJC+VYoUzoipNN4uYZ2L+IaNOsKU6MaXeVfQMPPbLgZ9pOgksyzlHaUAnp6NU4zPY\nP5TRsT/9nVT0NAvHGUHZRO5Znh08Ng92O3FqYfWoNsQg7Rs4cLYf2uV6dwebvVzy\n9E1FJw864JstAS7g9bqymDiaBAcNMqEEiwlPzbL4bvorJcu92wh3rYbT/TWPNbfi\n6/1bd4f8HeWJvH3dqPhSTb0DBfR3TUi+x3wy0TasR4B4CBtWkgQvN86Fdsrofgiy\ngjB8HxmkcpbdLim15UFc9H2B0zWp1CijCs9Vrmii7tlbTL+Hwp6r+7jeViZ32Cvl\nJSuzz0+QeVEtBac6P14yT5y5N+ClJPYL/yuWwerlo1RSyiZBcevvicdjXPI6rjxU\nfX0kjFoF20/Xhn8IPwd5jtWdfuUuE/sFHchjniK8UkCSoOhk6GajU+gsY3R11kN4\njGxJ8KUWRmlt3S1WDdcv3UQofVAzgfn/L7pmpnydpqvMMR1WUa41iluucXd+ndha\nTeDASHmzNxOHf0CYUB+dsu3pA4GGwu9XxCCIQXMWJByWvcmTO3JoNJ+ILv32EHyH\nNVqkpFEk/psvxcpmvjmQqEAmx+COgW96WWdepQcwMT/JOLpaCb8=\n=SdsF\n-----END PGP SIGNATURE-----",
+        "payload": "tree 2847b36ec26e671425e5f961022502aeae7bfcf9\nparent 24c10311b5078673e29654bbcf8a14c18817116a\nauthor Bill Beesley <bill.beesley@soundcloud.com> 1677074742 +0000\ncommitter Bill Beesley <bill.beesley@soundcloud.com> 1677074742 +0000\n\nci: test toolkit update\n"
+      }
+    },
+    "url": "https://api.github.com/repos/bbeesley/pr-metadata/commits/17f4aeabb86d681e987ec2cff237c94c9f2cfd5c",
+    "html_url": "https://github.com/bbeesley/pr-metadata/commit/17f4aeabb86d681e987ec2cff237c94c9f2cfd5c",
+    "comments_url": "https://api.github.com/repos/bbeesley/pr-metadata/commits/17f4aeabb86d681e987ec2cff237c94c9f2cfd5c/comments",
+    "author": {
+      "login": "bbeesley",
+      "id": 1926537,
+      "node_id": "MDQ6VXNlcjE5MjY1Mzc=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1926537?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bbeesley",
+      "html_url": "https://github.com/bbeesley",
+      "followers_url": "https://api.github.com/users/bbeesley/followers",
+      "following_url": "https://api.github.com/users/bbeesley/following{/other_user}",
+      "gists_url": "https://api.github.com/users/bbeesley/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/bbeesley/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/bbeesley/subscriptions",
+      "organizations_url": "https://api.github.com/users/bbeesley/orgs",
+      "repos_url": "https://api.github.com/users/bbeesley/repos",
+      "events_url": "https://api.github.com/users/bbeesley/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/bbeesley/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "bbeesley",
+      "id": 1926537,
+      "node_id": "MDQ6VXNlcjE5MjY1Mzc=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1926537?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bbeesley",
+      "html_url": "https://github.com/bbeesley",
+      "followers_url": "https://api.github.com/users/bbeesley/followers",
+      "following_url": "https://api.github.com/users/bbeesley/following{/other_user}",
+      "gists_url": "https://api.github.com/users/bbeesley/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/bbeesley/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/bbeesley/subscriptions",
+      "organizations_url": "https://api.github.com/users/bbeesley/orgs",
+      "repos_url": "https://api.github.com/users/bbeesley/repos",
+      "events_url": "https://api.github.com/users/bbeesley/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/bbeesley/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "24c10311b5078673e29654bbcf8a14c18817116a",
+        "url": "https://api.github.com/repos/bbeesley/pr-metadata/commits/24c10311b5078673e29654bbcf8a14c18817116a",
+        "html_url": "https://github.com/bbeesley/pr-metadata/commit/24c10311b5078673e29654bbcf8a14c18817116a"
+      }
+    ]
+  },
+  "merge_base_commit": {
+    "sha": "17f4aeabb86d681e987ec2cff237c94c9f2cfd5c",
+    "node_id": "C_kwDOJBAz39oAKDE3ZjRhZWFiYjg2ZDY4MWU5ODdlYzJjZmYyMzdjOTRjOWYyY2ZkNWM",
+    "commit": {
+      "author": {
+        "name": "Bill Beesley",
+        "email": "bill.beesley@soundcloud.com",
+        "date": "2023-02-22T14:05:42Z"
+      },
+      "committer": {
+        "name": "Bill Beesley",
+        "email": "bill.beesley@soundcloud.com",
+        "date": "2023-02-22T14:05:42Z"
+      },
+      "message": "ci: test toolkit update",
+      "tree": {
+        "sha": "2847b36ec26e671425e5f961022502aeae7bfcf9",
+        "url": "https://api.github.com/repos/bbeesley/pr-metadata/git/trees/2847b36ec26e671425e5f961022502aeae7bfcf9"
+      },
+      "url": "https://api.github.com/repos/bbeesley/pr-metadata/git/commits/17f4aeabb86d681e987ec2cff237c94c9f2cfd5c",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCAAdFiEEatbs3mQF9gdUc5/vdblGCPcGRngFAmP2ITYACgkQdblGCPcG\nRnj7aRAApwjQg0ZK6IRqyTELqQVb6DbYp5GFOoqz7vxcZ594uUDiJrpJ5CzozUBa\nJC+VYoUzoipNN4uYZ2L+IaNOsKU6MaXeVfQMPPbLgZ9pOgksyzlHaUAnp6NU4zPY\nP5TRsT/9nVT0NAvHGUHZRO5Znh08Ng92O3FqYfWoNsQg7Rs4cLYf2uV6dwebvVzy\n9E1FJw864JstAS7g9bqymDiaBAcNMqEEiwlPzbL4bvorJcu92wh3rYbT/TWPNbfi\n6/1bd4f8HeWJvH3dqPhSTb0DBfR3TUi+x3wy0TasR4B4CBtWkgQvN86Fdsrofgiy\ngjB8HxmkcpbdLim15UFc9H2B0zWp1CijCs9Vrmii7tlbTL+Hwp6r+7jeViZ32Cvl\nJSuzz0+QeVEtBac6P14yT5y5N+ClJPYL/yuWwerlo1RSyiZBcevvicdjXPI6rjxU\nfX0kjFoF20/Xhn8IPwd5jtWdfuUuE/sFHchjniK8UkCSoOhk6GajU+gsY3R11kN4\njGxJ8KUWRmlt3S1WDdcv3UQofVAzgfn/L7pmpnydpqvMMR1WUa41iluucXd+ndha\nTeDASHmzNxOHf0CYUB+dsu3pA4GGwu9XxCCIQXMWJByWvcmTO3JoNJ+ILv32EHyH\nNVqkpFEk/psvxcpmvjmQqEAmx+COgW96WWdepQcwMT/JOLpaCb8=\n=SdsF\n-----END PGP SIGNATURE-----",
+        "payload": "tree 2847b36ec26e671425e5f961022502aeae7bfcf9\nparent 24c10311b5078673e29654bbcf8a14c18817116a\nauthor Bill Beesley <bill.beesley@soundcloud.com> 1677074742 +0000\ncommitter Bill Beesley <bill.beesley@soundcloud.com> 1677074742 +0000\n\nci: test toolkit update\n"
+      }
+    },
+    "url": "https://api.github.com/repos/bbeesley/pr-metadata/commits/17f4aeabb86d681e987ec2cff237c94c9f2cfd5c",
+    "html_url": "https://github.com/bbeesley/pr-metadata/commit/17f4aeabb86d681e987ec2cff237c94c9f2cfd5c",
+    "comments_url": "https://api.github.com/repos/bbeesley/pr-metadata/commits/17f4aeabb86d681e987ec2cff237c94c9f2cfd5c/comments",
+    "author": {
+      "login": "bbeesley",
+      "id": 1926537,
+      "node_id": "MDQ6VXNlcjE5MjY1Mzc=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1926537?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bbeesley",
+      "html_url": "https://github.com/bbeesley",
+      "followers_url": "https://api.github.com/users/bbeesley/followers",
+      "following_url": "https://api.github.com/users/bbeesley/following{/other_user}",
+      "gists_url": "https://api.github.com/users/bbeesley/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/bbeesley/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/bbeesley/subscriptions",
+      "organizations_url": "https://api.github.com/users/bbeesley/orgs",
+      "repos_url": "https://api.github.com/users/bbeesley/repos",
+      "events_url": "https://api.github.com/users/bbeesley/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/bbeesley/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "bbeesley",
+      "id": 1926537,
+      "node_id": "MDQ6VXNlcjE5MjY1Mzc=",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1926537?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/bbeesley",
+      "html_url": "https://github.com/bbeesley",
+      "followers_url": "https://api.github.com/users/bbeesley/followers",
+      "following_url": "https://api.github.com/users/bbeesley/following{/other_user}",
+      "gists_url": "https://api.github.com/users/bbeesley/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/bbeesley/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/bbeesley/subscriptions",
+      "organizations_url": "https://api.github.com/users/bbeesley/orgs",
+      "repos_url": "https://api.github.com/users/bbeesley/repos",
+      "events_url": "https://api.github.com/users/bbeesley/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/bbeesley/received_events",
+      "type": "User",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "24c10311b5078673e29654bbcf8a14c18817116a",
+        "url": "https://api.github.com/repos/bbeesley/pr-metadata/commits/24c10311b5078673e29654bbcf8a14c18817116a",
+        "html_url": "https://github.com/bbeesley/pr-metadata/commit/24c10311b5078673e29654bbcf8a14c18817116a"
+      }
+    ]
+  },
+  "status": "ahead",
+  "ahead_by": 4,
+  "behind_by": 0,
+  "total_commits": 4,
+  "commits": [
+    {
+      "sha": "1c6e53d4f2aff1f77349bb469a72563ab4b0d133",
+      "node_id": "C_kwDOJBAz39oAKDFjNmU1M2Q0ZjJhZmYxZjc3MzQ5YmI0NjlhNzI1NjNhYjRiMGQxMzM",
+      "commit": {
+        "author": {
+          "name": "Bill Beesley",
+          "email": "bill.beesley@soundcloud.com",
+          "date": "2023-02-22T13:55:32Z"
+        },
+        "committer": {
+          "name": "Bill Beesley",
+          "email": "bill.beesley@soundcloud.com",
+          "date": "2023-02-22T14:05:55Z"
+        },
+        "message": "feat: add initial version of package",
+        "tree": {
+          "sha": "5b59c5d3794391c5606de98fd94a86a50bfd9055",
+          "url": "https://api.github.com/repos/bbeesley/pr-metadata/git/trees/5b59c5d3794391c5606de98fd94a86a50bfd9055"
+        },
+        "url": "https://api.github.com/repos/bbeesley/pr-metadata/git/commits/1c6e53d4f2aff1f77349bb469a72563ab4b0d133",
+        "comment_count": 0,
+        "verification": {
+          "verified": true,
+          "reason": "valid",
+          "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCAAdFiEEatbs3mQF9gdUc5/vdblGCPcGRngFAmP2IUMACgkQdblGCPcG\nRnibQw/+JARFRdWYgFFnFk7FIJGFITb0tu3JKu5u+kc66KQ856UuaKHlE2LkhknI\n2mdyBgzeAgaV3d0kqm9lsWt0LWqsx+Br0tONj63rImcZRtyKt/qtf3MYFNIwBz+e\n9cy7gzqpW7aJtxvQI7/J7lu1zzBGFXN3bsCJOfY4CyPtl0B7a4o1PIvQl3+fE1UQ\nEchVw1Jj3megaWAomHP4juHOtuezwLfAeUebiDzQcHnzEKXc3raOP3xa6CswWXpt\nikHpgxOLjnxYsawdVvP4ufcr0cdopRwsBczVuQU7PQ+YmKVVOIQzIOlgrsRDDWCR\nTsq+Xn3bblaPjPSjASTDqjMvApnql3kG1TYjpHZFArDVy0Hj/tEvMFcuiPSebu2N\nqKjDfbjBu9LlGt/0F2DeSdPw+bSwtzM0qx2oTcvLEFv0h0pnfx0vEgyTcPf9Tz4y\n7DBy7c9JSdxszOIaWWL40b0QAOR6ADcnDAlrFRnzcxBEM9TfoOyy7VuVeCr85gSz\nJrRHd5D6yAWYe86LMsgK9NWE1w80wLM8ElkKduJPZbaJOhl1cBmjtreoBs2ewYsp\nkRtvFwrkFPAGYgPJpqzPEuK+vHxuQzZE+nk2F+q4APxZd+ZlzE7qeLpnfGjAl/0m\nvGZLBHqzqaJs0dQ9dZ8qivsyx393WCGu/OkAP3Ve7QRfhVcf7mU=\n=a+W+\n-----END PGP SIGNATURE-----",
+          "payload": "tree 5b59c5d3794391c5606de98fd94a86a50bfd9055\nparent 17f4aeabb86d681e987ec2cff237c94c9f2cfd5c\nauthor Bill Beesley <bill.beesley@soundcloud.com> 1677074132 +0000\ncommitter Bill Beesley <bill.beesley@soundcloud.com> 1677074755 +0000\n\nfeat: add initial version of package\n"
+        }
+      },
+      "url": "https://api.github.com/repos/bbeesley/pr-metadata/commits/1c6e53d4f2aff1f77349bb469a72563ab4b0d133",
+      "html_url": "https://github.com/bbeesley/pr-metadata/commit/1c6e53d4f2aff1f77349bb469a72563ab4b0d133",
+      "comments_url": "https://api.github.com/repos/bbeesley/pr-metadata/commits/1c6e53d4f2aff1f77349bb469a72563ab4b0d133/comments",
+      "author": {
+        "login": "bbeesley",
+        "id": 1926537,
+        "node_id": "MDQ6VXNlcjE5MjY1Mzc=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1926537?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/bbeesley",
+        "html_url": "https://github.com/bbeesley",
+        "followers_url": "https://api.github.com/users/bbeesley/followers",
+        "following_url": "https://api.github.com/users/bbeesley/following{/other_user}",
+        "gists_url": "https://api.github.com/users/bbeesley/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/bbeesley/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/bbeesley/subscriptions",
+        "organizations_url": "https://api.github.com/users/bbeesley/orgs",
+        "repos_url": "https://api.github.com/users/bbeesley/repos",
+        "events_url": "https://api.github.com/users/bbeesley/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/bbeesley/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "bbeesley",
+        "id": 1926537,
+        "node_id": "MDQ6VXNlcjE5MjY1Mzc=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1926537?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/bbeesley",
+        "html_url": "https://github.com/bbeesley",
+        "followers_url": "https://api.github.com/users/bbeesley/followers",
+        "following_url": "https://api.github.com/users/bbeesley/following{/other_user}",
+        "gists_url": "https://api.github.com/users/bbeesley/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/bbeesley/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/bbeesley/subscriptions",
+        "organizations_url": "https://api.github.com/users/bbeesley/orgs",
+        "repos_url": "https://api.github.com/users/bbeesley/repos",
+        "events_url": "https://api.github.com/users/bbeesley/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/bbeesley/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "17f4aeabb86d681e987ec2cff237c94c9f2cfd5c",
+          "url": "https://api.github.com/repos/bbeesley/pr-metadata/commits/17f4aeabb86d681e987ec2cff237c94c9f2cfd5c",
+          "html_url": "https://github.com/bbeesley/pr-metadata/commit/17f4aeabb86d681e987ec2cff237c94c9f2cfd5c"
+        }
+      ]
+    },
+    {
+      "sha": "73daf6a748472c0ffc411401ff5822573e27a450",
+      "node_id": "C_kwDOJBAz39oAKDczZGFmNmE3NDg0NzJjMGZmYzQxMTQwMWZmNTgyMjU3M2UyN2E0NTA",
+      "commit": {
+        "author": {
+          "name": "Bill Beesley",
+          "email": "bill.beesley@soundcloud.com",
+          "date": "2023-02-22T14:06:07Z"
+        },
+        "committer": {
+          "name": "Bill Beesley",
+          "email": "bill.beesley@soundcloud.com",
+          "date": "2023-02-22T14:06:07Z"
+        },
+        "message": "chore: testing",
+        "tree": {
+          "sha": "176b1acab0fd7cdd5cddc69c8362aa4a71f7705e",
+          "url": "https://api.github.com/repos/bbeesley/pr-metadata/git/trees/176b1acab0fd7cdd5cddc69c8362aa4a71f7705e"
+        },
+        "url": "https://api.github.com/repos/bbeesley/pr-metadata/git/commits/73daf6a748472c0ffc411401ff5822573e27a450",
+        "comment_count": 0,
+        "verification": {
+          "verified": true,
+          "reason": "valid",
+          "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCAAdFiEEatbs3mQF9gdUc5/vdblGCPcGRngFAmP2IU8ACgkQdblGCPcG\nRnj7xRAAkMqzHuBHib5YN8RQg+SLtwRvDKra1Wxee62hrBXawYJMn7q6Zn/FWof6\nLTiCW/yqz8OrjxveRSotg9ryDKl/Xiy+hLg0HedGWC/xawaK73AWUYTHRG58kGoQ\nxkGK/h2Ks7lp26Mxf4aXiyrcypMMvti2UpMcqhqHu8Fk0zsUbI9SbFxxgQ48W87o\nUx/QctpC0ZCGjz5EQ44+T8UMa7Gz2eA7CWPLcOVJxWCUKoQWuGGt6lgPxuirbUmV\nWNlVGIqqJ2YqVk/BtqYomf/KRJZuX3MF7FTnFSjoUXvAeZ8I7uQ6pdIa+dhc0gAl\nfDy3QOKwGvWn736CsCblz0Gn9T4Rf0bKs42pK+NnkMlmeWc+ExAhF6seLP1zVWjF\n14XaNUTFREtn3DW5VtMLucBGdw4e880Hr7zlgn7vfbs/O2BVAPLqcLLyT7fqHNO+\nYDs0QnM/jztU8iQU88k2TBPEq208Twql348GRPTvxMxzz3vGUpAKfP7Hk/Le4Pa3\nY0hMmIIC+1jJYEks4HZcx9gYOEqqOfjQJ1pRaY8aQ/rwJtPmwHVE4PrYQ8on23Xr\nspn9ig9kai/3kTh6lhYLa7BYx3oHbsDI5XFg6yAF0POIDPwkpmDGoRhkBs4m6YMi\njWfJEXH325Too/DlxkrCHdD9RGL7gj+x14KKw12Y0nZWAK3/2pQ=\n=iLff\n-----END PGP SIGNATURE-----",
+          "payload": "tree 176b1acab0fd7cdd5cddc69c8362aa4a71f7705e\nparent 1c6e53d4f2aff1f77349bb469a72563ab4b0d133\nauthor Bill Beesley <bill.beesley@soundcloud.com> 1677074767 +0000\ncommitter Bill Beesley <bill.beesley@soundcloud.com> 1677074767 +0000\n\nchore: testing\n"
+        }
+      },
+      "url": "https://api.github.com/repos/bbeesley/pr-metadata/commits/73daf6a748472c0ffc411401ff5822573e27a450",
+      "html_url": "https://github.com/bbeesley/pr-metadata/commit/73daf6a748472c0ffc411401ff5822573e27a450",
+      "comments_url": "https://api.github.com/repos/bbeesley/pr-metadata/commits/73daf6a748472c0ffc411401ff5822573e27a450/comments",
+      "author": {
+        "login": "bbeesley",
+        "id": 1926537,
+        "node_id": "MDQ6VXNlcjE5MjY1Mzc=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1926537?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/bbeesley",
+        "html_url": "https://github.com/bbeesley",
+        "followers_url": "https://api.github.com/users/bbeesley/followers",
+        "following_url": "https://api.github.com/users/bbeesley/following{/other_user}",
+        "gists_url": "https://api.github.com/users/bbeesley/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/bbeesley/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/bbeesley/subscriptions",
+        "organizations_url": "https://api.github.com/users/bbeesley/orgs",
+        "repos_url": "https://api.github.com/users/bbeesley/repos",
+        "events_url": "https://api.github.com/users/bbeesley/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/bbeesley/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "bbeesley",
+        "id": 1926537,
+        "node_id": "MDQ6VXNlcjE5MjY1Mzc=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1926537?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/bbeesley",
+        "html_url": "https://github.com/bbeesley",
+        "followers_url": "https://api.github.com/users/bbeesley/followers",
+        "following_url": "https://api.github.com/users/bbeesley/following{/other_user}",
+        "gists_url": "https://api.github.com/users/bbeesley/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/bbeesley/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/bbeesley/subscriptions",
+        "organizations_url": "https://api.github.com/users/bbeesley/orgs",
+        "repos_url": "https://api.github.com/users/bbeesley/repos",
+        "events_url": "https://api.github.com/users/bbeesley/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/bbeesley/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "1c6e53d4f2aff1f77349bb469a72563ab4b0d133",
+          "url": "https://api.github.com/repos/bbeesley/pr-metadata/commits/1c6e53d4f2aff1f77349bb469a72563ab4b0d133",
+          "html_url": "https://github.com/bbeesley/pr-metadata/commit/1c6e53d4f2aff1f77349bb469a72563ab4b0d133"
+        }
+      ]
+    },
+    {
+      "sha": "2422433fd8bba0875b214658ec25339d290872e9",
+      "node_id": "C_kwDOJBAz39oAKDI0MjI0MzNmZDhiYmEwODc1YjIxNDY1OGVjMjUzMzlkMjkwODcyZTk",
+      "commit": {
+        "author": {
+          "name": "Bill Beesley",
+          "email": "bill.beesley@soundcloud.com",
+          "date": "2023-02-22T14:07:46Z"
+        },
+        "committer": {
+          "name": "Bill Beesley",
+          "email": "bill.beesley@soundcloud.com",
+          "date": "2023-02-22T14:07:46Z"
+        },
+        "message": "chore: testing",
+        "tree": {
+          "sha": "c0d063b51e1532816dd1e462af05abd0b9ee392c",
+          "url": "https://api.github.com/repos/bbeesley/pr-metadata/git/trees/c0d063b51e1532816dd1e462af05abd0b9ee392c"
+        },
+        "url": "https://api.github.com/repos/bbeesley/pr-metadata/git/commits/2422433fd8bba0875b214658ec25339d290872e9",
+        "comment_count": 0,
+        "verification": {
+          "verified": true,
+          "reason": "valid",
+          "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCAAdFiEEatbs3mQF9gdUc5/vdblGCPcGRngFAmP2IbIACgkQdblGCPcG\nRngHNhAAnEmqEcgrWJRnOQppXMqV2nb96ANxFhaVQ0KcOULeauJ29mf13ntY4X2k\nS3hCCVKFXRG+wmZbvsg1FnpVREZr3evtgnQMj6YL8qqas7Dt7wYr4BEZ/ggZqJhC\nttzw3GiKgL4OlAyL2OeqsqAPXjRIzO+uGr0lP/IAuDZHKeUqND4vEbY0tFiBuYA0\nNofu0i3zuU8u0xRg8gCwMm2ma2ZtP5VrwPGo4Vohc72Q16yggd/Ickz3pL9N7XeX\nZ79dAGA4ZQZeM++vE3DAiya0TF33EfePcx7l3jHRAk6MzPcLH+ZdAa1V5hrX/Ri/\nlE6kwiWAr3aLvYBUBEjETKDgsLNV0rTKLOVpYGo05rvmcco5RouXhwNHAwYK1Vk6\nR08jOy4ALIu9t1YnjBeiEKnkb+dIhoQDHZEFxV6AunHug982DuKHysJyMRavmhjo\nGEbb1vzojfFdJTDwbyB2LADCzAGgbDvsFVLmV4oGxCNXAE6npN0P2Ksn1HLE/rTf\n+4vtLmiUiHsl3dt2v2bfzJnYTkY1NClfrJbnuz2yqY9xKWtCXBWY45k9kxbRh3XE\nSItwEOVTCMZselFLdXeoezgSoAVBOiUE+NTptZxEw+88dZgpKbFvY1GBtDsdNU5a\nXGzYbU7xjoK3MAELoOUkinlTaWsLpmeUI4bm7JDuanIBBM4jlR0=\n=6hDR\n-----END PGP SIGNATURE-----",
+          "payload": "tree c0d063b51e1532816dd1e462af05abd0b9ee392c\nparent 73daf6a748472c0ffc411401ff5822573e27a450\nauthor Bill Beesley <bill.beesley@soundcloud.com> 1677074866 +0000\ncommitter Bill Beesley <bill.beesley@soundcloud.com> 1677074866 +0000\n\nchore: testing\n"
+        }
+      },
+      "url": "https://api.github.com/repos/bbeesley/pr-metadata/commits/2422433fd8bba0875b214658ec25339d290872e9",
+      "html_url": "https://github.com/bbeesley/pr-metadata/commit/2422433fd8bba0875b214658ec25339d290872e9",
+      "comments_url": "https://api.github.com/repos/bbeesley/pr-metadata/commits/2422433fd8bba0875b214658ec25339d290872e9/comments",
+      "author": {
+        "login": "bbeesley",
+        "id": 1926537,
+        "node_id": "MDQ6VXNlcjE5MjY1Mzc=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1926537?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/bbeesley",
+        "html_url": "https://github.com/bbeesley",
+        "followers_url": "https://api.github.com/users/bbeesley/followers",
+        "following_url": "https://api.github.com/users/bbeesley/following{/other_user}",
+        "gists_url": "https://api.github.com/users/bbeesley/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/bbeesley/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/bbeesley/subscriptions",
+        "organizations_url": "https://api.github.com/users/bbeesley/orgs",
+        "repos_url": "https://api.github.com/users/bbeesley/repos",
+        "events_url": "https://api.github.com/users/bbeesley/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/bbeesley/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "bbeesley",
+        "id": 1926537,
+        "node_id": "MDQ6VXNlcjE5MjY1Mzc=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1926537?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/bbeesley",
+        "html_url": "https://github.com/bbeesley",
+        "followers_url": "https://api.github.com/users/bbeesley/followers",
+        "following_url": "https://api.github.com/users/bbeesley/following{/other_user}",
+        "gists_url": "https://api.github.com/users/bbeesley/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/bbeesley/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/bbeesley/subscriptions",
+        "organizations_url": "https://api.github.com/users/bbeesley/orgs",
+        "repos_url": "https://api.github.com/users/bbeesley/repos",
+        "events_url": "https://api.github.com/users/bbeesley/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/bbeesley/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "73daf6a748472c0ffc411401ff5822573e27a450",
+          "url": "https://api.github.com/repos/bbeesley/pr-metadata/commits/73daf6a748472c0ffc411401ff5822573e27a450",
+          "html_url": "https://github.com/bbeesley/pr-metadata/commit/73daf6a748472c0ffc411401ff5822573e27a450"
+        }
+      ]
+    },
+    {
+      "sha": "1b5d9e1f2ef8a0a4d19f3d21867e550752157fa2",
+      "node_id": "C_kwDOJBAz39oAKDFiNWQ5ZTFmMmVmOGEwYTRkMTlmM2QyMTg2N2U1NTA3NTIxNTdmYTI",
+      "commit": {
+        "author": {
+          "name": "Bill Beesley",
+          "email": "bill.beesley@soundcloud.com",
+          "date": "2023-02-22T14:11:46Z"
+        },
+        "committer": {
+          "name": "Bill Beesley",
+          "email": "bill.beesley@soundcloud.com",
+          "date": "2023-02-22T14:11:46Z"
+        },
+        "message": "chore: testing",
+        "tree": {
+          "sha": "c542135113d94dec2dd22bc6dac2302b247c4a9c",
+          "url": "https://api.github.com/repos/bbeesley/pr-metadata/git/trees/c542135113d94dec2dd22bc6dac2302b247c4a9c"
+        },
+        "url": "https://api.github.com/repos/bbeesley/pr-metadata/git/commits/1b5d9e1f2ef8a0a4d19f3d21867e550752157fa2",
+        "comment_count": 0,
+        "verification": {
+          "verified": true,
+          "reason": "valid",
+          "signature": "-----BEGIN PGP SIGNATURE-----\n\niQIzBAABCAAdFiEEatbs3mQF9gdUc5/vdblGCPcGRngFAmP2IqIACgkQdblGCPcG\nRnhViA//X8ijb35IqxGWKKj3CrxShPJN1vUmsyggGB6VDdNlfhZ4537mMTEKnAz6\nBgfIm6CoNfUPEtmYGPL0UymTBaUuUjEuJ0IY9INE/kkBa8M5bAs3xiaJCeJiNpFD\npT5MiZLoKVDxBO+rrUpizsZqx/XKjW/B2356sBwtFw3AHBpmbzH0bXpSLbG+5RMw\nlezlkLNT/9CUV3g75zr0W+OaM2NRx6iOaCRERC0mPtDunsD9hnqEtRVVjdL0vPQo\nMuZoNVA+czJ6aBR4SRwC4E5iphT59WnPE7qsVh3W0PJrUuffrvJWGXCeg1PJPLHe\n5jf5Cv0Ez4l+eEbvuYp6wwyS6No15/212bFl+XJNDxQRyr9Tpnrmtd3O22y/AlxV\n0PWN9F37prAjQRR1sRzsaowt5V02+zyDopVa6iz2dX7rUJfOCIZF/6vqFdaw10Ck\n0C2kCBBSfxOA/t2OdCjJTWU4hPE8gSSiXyCVBM17rPNUq/3SShNljqU6zt55cLQj\noF5khf+pxWkkhPaMabjvWMyICbdRdXIJK8DlssuLnxc4M9PrnfhVl5EsCgZwUS/F\n73X0S6Lg7Xf8xuS/R5CK20wn3/eybHbrGGCfQut8SWfXe8SJCMgktocBtYDXfpvh\nldT0KZl1KZj3nX7o1gp590JDQuggGSRvwQMeYVU0tkYvw8pvnS4=\n=dSM2\n-----END PGP SIGNATURE-----",
+          "payload": "tree c542135113d94dec2dd22bc6dac2302b247c4a9c\nparent 2422433fd8bba0875b214658ec25339d290872e9\nauthor Bill Beesley <bill.beesley@soundcloud.com> 1677075106 +0000\ncommitter Bill Beesley <bill.beesley@soundcloud.com> 1677075106 +0000\n\nchore: testing\n"
+        }
+      },
+      "url": "https://api.github.com/repos/bbeesley/pr-metadata/commits/1b5d9e1f2ef8a0a4d19f3d21867e550752157fa2",
+      "html_url": "https://github.com/bbeesley/pr-metadata/commit/1b5d9e1f2ef8a0a4d19f3d21867e550752157fa2",
+      "comments_url": "https://api.github.com/repos/bbeesley/pr-metadata/commits/1b5d9e1f2ef8a0a4d19f3d21867e550752157fa2/comments",
+      "author": {
+        "login": "bbeesley",
+        "id": 1926537,
+        "node_id": "MDQ6VXNlcjE5MjY1Mzc=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1926537?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/bbeesley",
+        "html_url": "https://github.com/bbeesley",
+        "followers_url": "https://api.github.com/users/bbeesley/followers",
+        "following_url": "https://api.github.com/users/bbeesley/following{/other_user}",
+        "gists_url": "https://api.github.com/users/bbeesley/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/bbeesley/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/bbeesley/subscriptions",
+        "organizations_url": "https://api.github.com/users/bbeesley/orgs",
+        "repos_url": "https://api.github.com/users/bbeesley/repos",
+        "events_url": "https://api.github.com/users/bbeesley/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/bbeesley/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "committer": {
+        "login": "bbeesley",
+        "id": 1926537,
+        "node_id": "MDQ6VXNlcjE5MjY1Mzc=",
+        "avatar_url": "https://avatars.githubusercontent.com/u/1926537?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/bbeesley",
+        "html_url": "https://github.com/bbeesley",
+        "followers_url": "https://api.github.com/users/bbeesley/followers",
+        "following_url": "https://api.github.com/users/bbeesley/following{/other_user}",
+        "gists_url": "https://api.github.com/users/bbeesley/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/bbeesley/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/bbeesley/subscriptions",
+        "organizations_url": "https://api.github.com/users/bbeesley/orgs",
+        "repos_url": "https://api.github.com/users/bbeesley/repos",
+        "events_url": "https://api.github.com/users/bbeesley/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/bbeesley/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "parents": [
+        {
+          "sha": "2422433fd8bba0875b214658ec25339d290872e9",
+          "url": "https://api.github.com/repos/bbeesley/pr-metadata/commits/2422433fd8bba0875b214658ec25339d290872e9",
+          "html_url": "https://github.com/bbeesley/pr-metadata/commit/2422433fd8bba0875b214658ec25339d290872e9"
+        }
+      ]
+    }
+  ],
+  "files": [
+    {
+      "sha": "2f1f3a471efa824ee5078d060c79e706e911ed9e",
+      "filename": ".commitlintrc.json",
+      "status": "added",
+      "additions": 23,
+      "deletions": 0,
+      "changes": 23,
+      "blob_url": "https://github.com/bbeesley/pr-metadata/blob/1b5d9e1f2ef8a0a4d19f3d21867e550752157fa2/.commitlintrc.json",
+      "raw_url": "https://github.com/bbeesley/pr-metadata/raw/1b5d9e1f2ef8a0a4d19f3d21867e550752157fa2/.commitlintrc.json",
+      "contents_url": "https://api.github.com/repos/bbeesley/pr-metadata/contents/.commitlintrc.json?ref=1b5d9e1f2ef8a0a4d19f3d21867e550752157fa2",
+      "patch": "@@ -0,0 +1,23 @@\n+{\n+  \"extends\": [\"@commitlint/config-conventional\"],\n+  \"rules\": {\n+    \"type-enum\": [\n+      2,\n+      \"always\",\n+      [\n+        \"feat\",\n+        \"fix\",\n+        \"docs\",\n+        \"style\",\n+        \"refactor\",\n+        \"perf\",\n+        \"test\",\n+        \"build\",\n+        \"ci\",\n+        \"chore\",\n+        \"revert\"\n+      ]\n+    ],\n+    \"body-max-line-length\": [0, \"always\", 200]\n+  }\n+}"
+    },
+    {
+      "sha": "8def03e234a33d94a21ca959430ec1beb6f2f935",
+      "filename": ".gitignore",
+      "status": "modified",
+      "additions": 2,
+      "deletions": 0,
+      "changes": 2,
+      "blob_url": "https://github.com/bbeesley/pr-metadata/blob/1b5d9e1f2ef8a0a4d19f3d21867e550752157fa2/.gitignore",
+      "raw_url": "https://github.com/bbeesley/pr-metadata/raw/1b5d9e1f2ef8a0a4d19f3d21867e550752157fa2/.gitignore",
+      "contents_url": "https://api.github.com/repos/bbeesley/pr-metadata/contents/.gitignore?ref=1b5d9e1f2ef8a0a4d19f3d21867e550752157fa2",
+      "patch": "@@ -102,3 +102,5 @@ dist\n \n # TernJS port file\n .tern-port\n+\n+_templates"
+    },
+    {
+      "sha": "d939939b25962c6fe9295f6823f91beb63fd6abf",
+      "filename": ".nvmrc",
+      "status": "added",
+      "additions": 1,
+      "deletions": 0,
+      "changes": 1,
+      "blob_url": "https://github.com/bbeesley/pr-metadata/blob/1b5d9e1f2ef8a0a4d19f3d21867e550752157fa2/.nvmrc",
+      "raw_url": "https://github.com/bbeesley/pr-metadata/raw/1b5d9e1f2ef8a0a4d19f3d21867e550752157fa2/.nvmrc",
+      "contents_url": "https://api.github.com/repos/bbeesley/pr-metadata/contents/.nvmrc?ref=1b5d9e1f2ef8a0a4d19f3d21867e550752157fa2",
+      "patch": "@@ -0,0 +1 @@\n+18.13.0"
+    },
+    {
+      "sha": "5790c76082e304fb1161a756ee6b6ba5caf0b529",
+      "filename": "README.md",
+      "status": "modified",
+      "additions": 5,
+      "deletions": 2,
+      "changes": 7,
+      "blob_url": "https://github.com/bbeesley/pr-metadata/blob/1b5d9e1f2ef8a0a4d19f3d21867e550752157fa2/README.md",
+      "raw_url": "https://github.com/bbeesley/pr-metadata/raw/1b5d9e1f2ef8a0a4d19f3d21867e550752157fa2/README.md",
+      "contents_url": "https://api.github.com/repos/bbeesley/pr-metadata/contents/README.md?ref=1b5d9e1f2ef8a0a4d19f3d21867e550752157fa2",
+      "patch": "@@ -1,2 +1,5 @@\n-# pr-metadata\n-A cli for accessing metadata about pull requests within github actions\n+# @beesley/pr-metadata\n+\n+A cli tool for reading information about pull requests within github actions.\n+\n+## API"
+    },
+    {
+      "sha": "2157197bbba29afaa56b87366c04acce5ef37273",
+      "filename": "ava.config.cjs",
+      "status": "added",
+      "additions": 16,
+      "deletions": 0,
+      "changes": 16,
+      "blob_url": "https://github.com/bbeesley/pr-metadata/blob/1b5d9e1f2ef8a0a4d19f3d21867e550752157fa2/ava.config.cjs",
+      "raw_url": "https://github.com/bbeesley/pr-metadata/raw/1b5d9e1f2ef8a0a4d19f3d21867e550752157fa2/ava.config.cjs",
+      "contents_url": "https://api.github.com/repos/bbeesley/pr-metadata/contents/ava.config.cjs?ref=1b5d9e1f2ef8a0a4d19f3d21867e550752157fa2",
+      "patch": "@@ -0,0 +1,16 @@\n+module.exports = {\n+  files: ['src/**/*.test.{t,j}s', 'src/*.test.{t,j}s'],\n+  concurrency: 1,\n+  failFast: true,\n+  failWithoutAssertions: false,\n+  verbose: true,\n+  extensions: {\n+    ts: 'module',\n+    js: true,\n+  },\n+  nodeArguments: [\n+    '--loader=ts-node/esm',\n+    '--experimental-specifier-resolution=node',\n+  ],\n+  timeout: '1m',\n+};"
+    },
+    {
+      "sha": "9916e260d6683ee921e701dd1d3e131bcba5281a",
+      "filename": "babel.config.cjs",
+      "status": "added",
+      "additions": 28,
+      "deletions": 0,
+      "changes": 28,
+      "blob_url": "https://github.com/bbeesley/pr-metadata/blob/1b5d9e1f2ef8a0a4d19f3d21867e550752157fa2/babel.config.cjs",
+      "raw_url": "https://github.com/bbeesley/pr-metadata/raw/1b5d9e1f2ef8a0a4d19f3d21867e550752157fa2/babel.config.cjs",
+      "contents_url": "https://api.github.com/repos/bbeesley/pr-metadata/contents/babel.config.cjs?ref=1b5d9e1f2ef8a0a4d19f3d21867e550752157fa2",
+      "patch": "@@ -0,0 +1,28 @@\n+module.exports = function configureBabel(api) {\n+  api.cache(true); // this tells babel to cache it's transformations, it's pretty good at checking file hashes and invalidating it's cache, but if you have problems with changes not being reflected you can set false here.\n+\n+  const presets = [\n+    [\n+      '@babel/preset-env', // this plugin tells babel to transpile your code for a specific runtime environment, we'll use node\n+      {\n+        targets: {\n+          node: '18.13.0',\n+        },\n+        modules: 'cjs',\n+      },\n+    ],\n+    [\n+      '@babel/preset-typescript', // this plugin allows babel to work with typescript (bear in mind it will only transpile it, it doesn't care if you have type errors)\n+    ],\n+  ];\n+\n+  const plugins = [[\n+    'babel-plugin-replace-import-extension',\n+    { extMapping: { '.js': '.cjs' } },\n+  ]];\n+\n+  return {\n+    presets,\n+    plugins,\n+  };\n+};"
+    },
+    {
+      "sha": "d6c0dac8807d7fa2f6f161f3e731d3a8448ee85a",
+      "filename": "bin/run.cjs",
+      "status": "added",
+      "additions": 11,
+      "deletions": 0,
+      "changes": 11,
+      "blob_url": "https://github.com/bbeesley/pr-metadata/blob/1b5d9e1f2ef8a0a4d19f3d21867e550752157fa2/bin%2Frun.cjs",
+      "raw_url": "https://github.com/bbeesley/pr-metadata/raw/1b5d9e1f2ef8a0a4d19f3d21867e550752157fa2/bin%2Frun.cjs",
+      "contents_url": "https://api.github.com/repos/bbeesley/pr-metadata/contents/bin%2Frun.cjs?ref=1b5d9e1f2ef8a0a4d19f3d21867e550752157fa2",
+      "patch": "@@ -0,0 +1,11 @@\n+#!/usr/bin/env node\n+\n+// eslint-disable-next-line unicorn/prefer-top-level-await\n+(async () => {\n+  try {\n+    await import('./run.mjs');\n+  } catch (error) {\n+    console.error({ error });\n+    process.exit(1);\n+  }\n+})();"
+    },
+    {
+      "sha": "1228cad0bc19d9159e73ddabc99caaa0d1a8bbf7",
+      "filename": "bin/run.mjs",
+      "status": "added",
+      "additions": 22,
+      "deletions": 0,
+      "changes": 22,
+      "blob_url": "https://github.com/bbeesley/pr-metadata/blob/1b5d9e1f2ef8a0a4d19f3d21867e550752157fa2/bin%2Frun.mjs",
+      "raw_url": "https://github.com/bbeesley/pr-metadata/raw/1b5d9e1f2ef8a0a4d19f3d21867e550752157fa2/bin%2Frun.mjs",
+      "contents_url": "https://api.github.com/repos/bbeesley/pr-metadata/contents/bin%2Frun.mjs?ref=1b5d9e1f2ef8a0a4d19f3d21867e550752157fa2",
+      "patch": "@@ -0,0 +1,22 @@\n+import yargs from 'yargs';\n+import { hideBin } from 'yargs/helpers'; // eslint-disable-line n/file-extension-in-import\n+import { getChangedFiles } from '../dist/esm/get-changed-files.js';\n+\n+const argv = yargs(hideBin(process.argv))\n+  .option('dirNames', {\n+    boolean: true,\n+    describe: 'Whether to return directory names instead of file names',\n+    default: false,\n+  })\n+  .option('filter', {\n+    array: true,\n+    string: true,\n+    describe: 'An array of globs to act as an include filter for where we look for changes',\n+  })\n+  .parse();\n+try {\n+  await getChangedFiles(argv.dirNames, argv.filter);\n+} catch (error) {\n+  console.error('fatal error', error.message, error.stack);\n+  process.exit(1);\n+}"
+    },
+    {
+      "sha": "2ab77c5d8ed5fa8dd9345ec17f6b40d169eb0e5e",
+      "filename": "package-lock.json",
+      "status": "added",
+      "additions": 37450,
+      "deletions": 0,
+      "changes": 37450,
+      "blob_url": "https://github.com/bbeesley/pr-metadata/blob/1b5d9e1f2ef8a0a4d19f3d21867e550752157fa2/package-lock.json",
+      "raw_url": "https://github.com/bbeesley/pr-metadata/raw/1b5d9e1f2ef8a0a4d19f3d21867e550752157fa2/package-lock.json",
+      "contents_url": "https://api.github.com/repos/bbeesley/pr-metadata/contents/package-lock.json?ref=1b5d9e1f2ef8a0a4d19f3d21867e550752157fa2"
+    },
+    {
+      "sha": "e40717bd61db639e8d45ea2fa123c1b59f63b7db",
+      "filename": "package.json",
+      "status": "added",
+      "additions": 146,
+      "deletions": 0,
+      "changes": 146,
+      "blob_url": "https://github.com/bbeesley/pr-metadata/blob/1b5d9e1f2ef8a0a4d19f3d21867e550752157fa2/package.json",
+      "raw_url": "https://github.com/bbeesley/pr-metadata/raw/1b5d9e1f2ef8a0a4d19f3d21867e550752157fa2/package.json",
+      "contents_url": "https://api.github.com/repos/bbeesley/pr-metadata/contents/package.json?ref=1b5d9e1f2ef8a0a4d19f3d21867e550752157fa2",
+      "patch": "@@ -0,0 +1,146 @@\n+{\n+  \"name\": \"@beesley/pr-metadata\",\n+  \"version\": \"0.0.0\",\n+  \"description\": \"A cli tool for reading information about pull requests within github actions.\",\n+  \"type\": \"module\",\n+  \"exports\": {\n+    \".\": {\n+      \"types\": \"./dist/types/index.d.ts\",\n+      \"import\": \"./dist/esm/index.js\",\n+      \"require\": \"./dist/cjs/index.cjs\"\n+    }\n+  },\n+  \"module\": \"./dist/esm/index.js\",\n+  \"main\": \"./dist/cjs/index.cjs\",\n+  \"types\": \"./dist/types/index.d.ts\",\n+  \"files\": [\n+    \"dist\",\n+    \"src\"\n+  ],\n+  \"scripts\": {\n+    \"test\": \"ava\",\n+    \"pretest\": \"npm run lint && npm run compile\",\n+    \"lint\": \"xo\",\n+    \"precompile\": \"rm -rf dist\",\n+    \"compile:esm\": \"tsc -p tsconfig.json\",\n+    \"compile:cjs\": \"babel src --out-dir dist/cjs --extensions '.ts,.cjs,.mjs' --ignore '**/*.test.ts' --source-maps --out-file-extension '.cjs'\",\n+    \"compile\": \"run-p compile:*\",\n+    \"documentation\": \"npx documentation readme src/* --github  --require-extension=ts --parse-extension=ts --section=api --shallow\",\n+    \"prerelease\": \"run-p compile documentation\",\n+    \"release\": \"npx semantic-release\"\n+  },\n+  \"repository\": {\n+    \"type\": \"git\",\n+    \"url\": \"git+https://github.com/bbeesley/pr-metadata.git\"\n+  },\n+  \"author\": \"Bill Beesley <bill@beesley.dev>\",\n+  \"license\": \"MIT\",\n+  \"eslintConfig\": {\n+    \"parserOptions\": {\n+      \"project\": [\n+        \"./tsconfig.json\",\n+        \"./tsconfig-lint.json\"\n+      ]\n+    }\n+  },\n+  \"xo\": {\n+    \"space\": true,\n+    \"prettier\": true,\n+    \"rules\": {\n+      \"func-names\": [\n+        \"error\",\n+        \"always\"\n+      ],\n+      \"no-await-in-loop\": \"off\",\n+      \"@typescript-eslint/no-implicit-any-catch\": \"off\",\n+      \"unicorn/no-array-reduce\": \"off\",\n+      \"import/extensions\": \"off\",\n+      \"n/prefer-global/process\": \"off\"\n+    }\n+  },\n+  \"dependencies\": {\n+    \"@actions/core\": \"^1.10.0\",\n+    \"@actions/github\": \"^5.1.1\",\n+    \"multimatch\": \"^6.0.0\",\n+    \"yargs\": \"^17.7.1\"\n+  },\n+  \"devDependencies\": {\n+    \"@babel/cli\": \"^7.17.6\",\n+    \"@babel/core\": \"^7.17.5\",\n+    \"@babel/preset-env\": \"^7.16.11\",\n+    \"@babel/preset-typescript\": \"^7.16.7\",\n+    \"@beesley/tsconfig\": \"^1.1.0\",\n+    \"@commitlint/cli\": \"^16.2.1\",\n+    \"@commitlint/config-conventional\": \"^16.2.1\",\n+    \"@semantic-release/changelog\": \"^6.0.1\",\n+    \"@semantic-release/commit-analyzer\": \"^9.0.2\",\n+    \"@semantic-release/git\": \"^10.0.1\",\n+    \"@semantic-release/github\": \"^8.0.2\",\n+    \"@semantic-release/npm\": \"^9.0.1\",\n+    \"@semantic-release/release-notes-generator\": \"^10.0.3\",\n+    \"@types/js-yaml\": \"^4.0.5\",\n+    \"@types/jsdom\": \"^16.2.14\",\n+    \"@types/sinon\": \"^10.0.11\",\n+    \"@types/yargs\": \"^17.0.8\",\n+    \"ava\": \"^4.0.1\",\n+    \"babel-plugin-replace-import-extension\": \"^1.1.3\",\n+    \"conventional-changelog-angular\": \"^5.0.13\",\n+    \"cz-conventional-changelog\": \"^3.3.0\",\n+    \"documentation\": \"^13.2.5\",\n+    \"nock\": \"^13.3.0\",\n+    \"npm-run-all\": \"^4.1.5\",\n+    \"prettier\": \"^2.5.1\",\n+    \"semantic-release\": \"^19.0.2\",\n+    \"sinon\": \"^13.0.1\",\n+    \"typescript\": \"^4.9.3\",\n+    \"xo\": \"^0.53.1\"\n+  },\n+  \"release\": {\n+    \"branches\": [\n+      \"main\",\n+      \"next\"\n+    ],\n+    \"plugins\": [\n+      [\n+        \"@semantic-release/commit-analyzer\",\n+        {\n+          \"releaseRules\": [\n+            {\n+              \"type\": \"docs\",\n+              \"release\": \"patch\"\n+            },\n+            {\n+              \"type\": \"refactor\",\n+              \"release\": \"patch\"\n+            },\n+            {\n+              \"type\": \"chore\",\n+              \"scope\": \"deps*\",\n+              \"release\": \"patch\"\n+            }\n+          ]\n+        }\n+      ],\n+      \"@semantic-release/release-notes-generator\",\n+      [\n+        \"@semantic-release/changelog\",\n+        {\n+          \"changelogFile\": \"CHANGELOG.md\"\n+        }\n+      ],\n+      \"@semantic-release/npm\",\n+      \"@semantic-release/github\",\n+      [\n+        \"@semantic-release/git\",\n+        {\n+          \"assets\": [\n+            \"package.json\",\n+            \"CHANGELOG.md\",\n+            \"README.md\"\n+          ],\n+          \"message\": \"chore(release): ${nextRelease.version} 🚀 [skip ci]\\n\\n${nextRelease.notes}\"\n+        }\n+      ]\n+    ]\n+  }\n+}"
+    },
+    {
+      "sha": "d749692fe560829b35fdcdfac8e5680b74264a59",
+      "filename": "prettier.config.cjs",
+      "status": "added",
+      "additions": 7,
+      "deletions": 0,
+      "changes": 7,
+      "blob_url": "https://github.com/bbeesley/pr-metadata/blob/1b5d9e1f2ef8a0a4d19f3d21867e550752157fa2/prettier.config.cjs",
+      "raw_url": "https://github.com/bbeesley/pr-metadata/raw/1b5d9e1f2ef8a0a4d19f3d21867e550752157fa2/prettier.config.cjs",
+      "contents_url": "https://api.github.com/repos/bbeesley/pr-metadata/contents/prettier.config.cjs?ref=1b5d9e1f2ef8a0a4d19f3d21867e550752157fa2",
+      "patch": "@@ -0,0 +1,7 @@\n+module.exports = {\n+  trailingComma: 'all',\n+  tabWidth: 2,\n+  semi: true,\n+  singleQuote: true,\n+  bracketSpacing: true,\n+};"
+    },
+    {
+      "sha": "3e0e4ea4e96f899607d81367f6992de66fa2a583",
+      "filename": "src/__mocks__/mock-context.json",
+      "status": "added",
+      "additions": 217,
+      "deletions": 0,
+      "changes": 217,
+      "blob_url": "https://github.com/bbeesley/pr-metadata/blob/1b5d9e1f2ef8a0a4d19f3d21867e550752157fa2/src%2F__mocks__%2Fmock-context.json",
+      "raw_url": "https://github.com/bbeesley/pr-metadata/raw/1b5d9e1f2ef8a0a4d19f3d21867e550752157fa2/src%2F__mocks__%2Fmock-context.json",
+      "contents_url": "https://api.github.com/repos/bbeesley/pr-metadata/contents/src%2F__mocks__%2Fmock-context.json?ref=1b5d9e1f2ef8a0a4d19f3d21867e550752157fa2",
+      "patch": "@@ -0,0 +1,217 @@\n+{\n+  \"payload\": {\n+    \"after\": \"f8b57b88700ba98f9a997940f719e34662f0e087\",\n+    \"base_ref\": null,\n+    \"before\": \"39c9e593b846262419684277864dcc4703515c04\",\n+    \"commits\": [\n+      {\n+        \"author\": {\n+          \"email\": \"bill.beesley@billbeesley.com\",\n+          \"name\": \"Bill Beesley\",\n+          \"username\": \"bbeesley\"\n+        },\n+        \"committer\": {\n+          \"email\": \"bill.beesley@billbeesley.com\",\n+          \"name\": \"Bill Beesley\",\n+          \"username\": \"bbeesley\"\n+        },\n+        \"distinct\": true,\n+        \"id\": \"f8b57b88700ba98f9a997940f719e34662f0e087\",\n+        \"message\": \"ci: chore test js toolkit\",\n+        \"timestamp\": \"2023-02-22T12:54:08Z\",\n+        \"tree_id\": \"ff250761e5dee80d1c3088ff37f79be9e2a0e677\",\n+        \"url\": \"https://github.com/bbeesley/pr-metadata/commit/f8b57b88700ba98f9a997940f719e34662f0e087\"\n+      }\n+    ],\n+    \"compare\": \"https://github.com/bbeesley/pr-metadata/compare/39c9e593b846...f8b57b88700b\",\n+    \"created\": false,\n+    \"deleted\": false,\n+    \"enterprise\": {\n+      \"avatar_url\": \"https://avatars.githubusercontent.com/b/16661?v=4\",\n+      \"created_at\": \"2022-10-21T20:34:12Z\",\n+      \"description\": null,\n+      \"html_url\": \"https://github.com/enterprises/billbeesley\",\n+      \"id\": 16661,\n+      \"name\": \"billbeesley \",\n+      \"node_id\": \"E_kgDNQRU\",\n+      \"slug\": \"billbeesley\",\n+      \"updated_at\": \"2022-12-08T17:55:48Z\",\n+      \"website_url\": null\n+    },\n+    \"forced\": false,\n+    \"head_commit\": {\n+      \"author\": {\n+        \"email\": \"bill.beesley@billbeesley.com\",\n+        \"name\": \"Bill Beesley\",\n+        \"username\": \"bbeesley\"\n+      },\n+      \"committer\": {\n+        \"email\": \"bill.beesley@billbeesley.com\",\n+        \"name\": \"Bill Beesley\",\n+        \"username\": \"bbeesley\"\n+      },\n+      \"distinct\": true,\n+      \"id\": \"f8b57b88700ba98f9a997940f719e34662f0e087\",\n+      \"message\": \"ci: chore test js toolkit\",\n+      \"timestamp\": \"2023-02-22T12:54:08Z\",\n+      \"tree_id\": \"ff250761e5dee80d1c3088ff37f79be9e2a0e677\",\n+      \"url\": \"https://github.com/bbeesley/pr-metadata/commit/f8b57b88700ba98f9a997940f719e34662f0e087\"\n+    },\n+    \"organization\": {\n+      \"avatar_url\": \"https://avatars.githubusercontent.com/u/21021?v=4\",\n+      \"description\": \"\",\n+      \"events_url\": \"https://api.github.com/orgs/billbeesley/events\",\n+      \"hooks_url\": \"https://api.github.com/orgs/billbeesley/hooks\",\n+      \"id\": 21021,\n+      \"issues_url\": \"https://api.github.com/orgs/billbeesley/issues\",\n+      \"login\": \"billbeesley\",\n+      \"members_url\": \"https://api.github.com/orgs/billbeesley/members{/member}\",\n+      \"node_id\": \"MDEyOk9yZ2FuaXphdGlvbjIxMDIx\",\n+      \"public_members_url\": \"https://api.github.com/orgs/billbeesley/public_members{/member}\",\n+      \"repos_url\": \"https://api.github.com/orgs/billbeesley/repos\",\n+      \"url\": \"https://api.github.com/orgs/billbeesley\"\n+    },\n+    \"pusher\": {\n+      \"email\": \"bbeesley@users.noreply.github.com\",\n+      \"name\": \"bbeesley\"\n+    },\n+    \"ref\": \"refs/heads/test-branch\",\n+    \"repository\": {\n+      \"allow_forking\": true,\n+      \"archive_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/{archive_format}{/ref}\",\n+      \"archived\": false,\n+      \"assignees_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/assignees{/user}\",\n+      \"blobs_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/git/blobs{/sha}\",\n+      \"branches_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/branches{/branch}\",\n+      \"clone_url\": \"https://github.com/bbeesley/pr-metadata.git\",\n+      \"collaborators_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/collaborators{/collaborator}\",\n+      \"comments_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/comments{/number}\",\n+      \"commits_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/commits{/sha}\",\n+      \"compare_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/compare/{base}...{head}\",\n+      \"contents_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/contents/{+path}\",\n+      \"contributors_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/contributors\",\n+      \"created_at\": 1674576214,\n+      \"default_branch\": \"master\",\n+      \"deployments_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/deployments\",\n+      \"description\": \"Terraform definition for modules and shared infrastructure\",\n+      \"disabled\": false,\n+      \"downloads_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/downloads\",\n+      \"events_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/events\",\n+      \"fork\": false,\n+      \"forks\": 0,\n+      \"forks_count\": 0,\n+      \"forks_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/forks\",\n+      \"full_name\": \"bbeesley/pr-metadata\",\n+      \"git_commits_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/git/commits{/sha}\",\n+      \"git_refs_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/git/refs{/sha}\",\n+      \"git_tags_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/git/tags{/sha}\",\n+      \"git_url\": \"git://github.com/bbeesley/pr-metadata.git\",\n+      \"has_discussions\": false,\n+      \"has_downloads\": true,\n+      \"has_issues\": true,\n+      \"has_pages\": false,\n+      \"has_projects\": true,\n+      \"has_wiki\": true,\n+      \"homepage\": null,\n+      \"hooks_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/hooks\",\n+      \"html_url\": \"https://github.com/bbeesley/pr-metadata\",\n+      \"id\": 592823249,\n+      \"is_template\": false,\n+      \"issue_comment_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/issues/comments{/number}\",\n+      \"issue_events_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/issues/events{/number}\",\n+      \"issues_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/issues{/number}\",\n+      \"keys_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/keys{/key_id}\",\n+      \"labels_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/labels{/name}\",\n+      \"language\": \"HCL\",\n+      \"languages_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/languages\",\n+      \"license\": null,\n+      \"master_branch\": \"master\",\n+      \"merges_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/merges\",\n+      \"milestones_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/milestones{/number}\",\n+      \"mirror_url\": null,\n+      \"name\": \"tf-common\",\n+      \"node_id\": \"R_kgDOI1XD0Q\",\n+      \"notifications_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/notifications{?since,all,participating}\",\n+      \"open_issues\": 4,\n+      \"open_issues_count\": 4,\n+      \"organization\": \"billbeesley\",\n+      \"owner\": {\n+        \"avatar_url\": \"https://avatars.githubusercontent.com/u/21021?v=4\",\n+        \"email\": null,\n+        \"events_url\": \"https://api.github.com/users/billbeesley/events{/privacy}\",\n+        \"followers_url\": \"https://api.github.com/users/billbeesley/followers\",\n+        \"following_url\": \"https://api.github.com/users/billbeesley/following{/other_user}\",\n+        \"gists_url\": \"https://api.github.com/users/billbeesley/gists{/gist_id}\",\n+        \"gravatar_id\": \"\",\n+        \"html_url\": \"https://github.com/billbeesley\",\n+        \"id\": 21021,\n+        \"login\": \"billbeesley\",\n+        \"name\": \"billbeesley\",\n+        \"node_id\": \"MDEyOk9yZ2FuaXphdGlvbjIxMDIx\",\n+        \"organizations_url\": \"https://api.github.com/users/billbeesley/orgs\",\n+        \"received_events_url\": \"https://api.github.com/users/billbeesley/received_events\",\n+        \"repos_url\": \"https://api.github.com/users/billbeesley/repos\",\n+        \"site_admin\": false,\n+        \"starred_url\": \"https://api.github.com/users/billbeesley/starred{/owner}{/repo}\",\n+        \"subscriptions_url\": \"https://api.github.com/users/billbeesley/subscriptions\",\n+        \"type\": \"Organization\",\n+        \"url\": \"https://api.github.com/users/billbeesley\"\n+      },\n+      \"private\": true,\n+      \"pulls_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/pulls{/number}\",\n+      \"pushed_at\": 1677070450,\n+      \"releases_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/releases{/id}\",\n+      \"size\": 555,\n+      \"ssh_url\": \"git@github.com:bbeesley/pr-metadata.git\",\n+      \"stargazers\": 0,\n+      \"stargazers_count\": 0,\n+      \"stargazers_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/stargazers\",\n+      \"statuses_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/statuses/{sha}\",\n+      \"subscribers_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/subscribers\",\n+      \"subscription_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/subscription\",\n+      \"svn_url\": \"https://github.com/bbeesley/pr-metadata\",\n+      \"tags_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/tags\",\n+      \"teams_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/teams\",\n+      \"topics\": [],\n+      \"trees_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/git/trees{/sha}\",\n+      \"updated_at\": \"2023-01-27T13:12:14Z\",\n+      \"url\": \"https://github.com/bbeesley/pr-metadata\",\n+      \"visibility\": \"internal\",\n+      \"watchers\": 0,\n+      \"watchers_count\": 0,\n+      \"web_commit_signoff_required\": false\n+    },\n+    \"sender\": {\n+      \"avatar_url\": \"https://avatars.githubusercontent.com/u/1926537?v=4\",\n+      \"events_url\": \"https://api.github.com/users/bbeesley/events{/privacy}\",\n+      \"followers_url\": \"https://api.github.com/users/bbeesley/followers\",\n+      \"following_url\": \"https://api.github.com/users/bbeesley/following{/other_user}\",\n+      \"gists_url\": \"https://api.github.com/users/bbeesley/gists{/gist_id}\",\n+      \"gravatar_id\": \"\",\n+      \"html_url\": \"https://github.com/bbeesley\",\n+      \"id\": 1926537,\n+      \"login\": \"bbeesley\",\n+      \"node_id\": \"MDQ6VXNlcjE5MjY1Mzc=\",\n+      \"organizations_url\": \"https://api.github.com/users/bbeesley/orgs\",\n+      \"received_events_url\": \"https://api.github.com/users/bbeesley/received_events\",\n+      \"repos_url\": \"https://api.github.com/users/bbeesley/repos\",\n+      \"site_admin\": false,\n+      \"starred_url\": \"https://api.github.com/users/bbeesley/starred{/owner}{/repo}\",\n+      \"subscriptions_url\": \"https://api.github.com/users/bbeesley/subscriptions\",\n+      \"type\": \"User\",\n+      \"url\": \"https://api.github.com/users/bbeesley\"\n+    }\n+  },\n+  \"eventName\": \"push\",\n+  \"sha\": \"f8b57b88700ba98f9a997940f719e34662f0e087\",\n+  \"ref\": \"refs/heads/test-branch\",\n+  \"workflow\": \"Test toolkit\",\n+  \"action\": \"__run_2\",\n+  \"actor\": \"bbeesley\",\n+  \"job\": \"terraform\",\n+  \"runNumber\": 9,\n+  \"runId\": 4242900520,\n+  \"apiUrl\": \"https://api.github.com\",\n+  \"serverUrl\": \"https://github.com\",\n+  \"graphqlUrl\": \"https://api.github.com/graphql\"\n+}"
+    },
+    {
+      "sha": "db05b071d6c1f94ba9a7151ad8b9c6dbe3e4fc2c",
+      "filename": "src/__mocks__/push-event.json",
+      "status": "added",
+      "additions": 217,
+      "deletions": 0,
+      "changes": 217,
+      "blob_url": "https://github.com/bbeesley/pr-metadata/blob/1b5d9e1f2ef8a0a4d19f3d21867e550752157fa2/src%2F__mocks__%2Fpush-event.json",
+      "raw_url": "https://github.com/bbeesley/pr-metadata/raw/1b5d9e1f2ef8a0a4d19f3d21867e550752157fa2/src%2F__mocks__%2Fpush-event.json",
+      "contents_url": "https://api.github.com/repos/bbeesley/pr-metadata/contents/src%2F__mocks__%2Fpush-event.json?ref=1b5d9e1f2ef8a0a4d19f3d21867e550752157fa2",
+      "patch": "@@ -0,0 +1,217 @@\n+{\n+  \"payload\": {\n+    \"after\": \"f8b57b88700ba98f9a997940f719e34662f0e087\",\n+    \"base_ref\": null,\n+    \"before\": \"39c9e593b846262419684277864dcc4703515c04\",\n+    \"commits\": [\n+      {\n+        \"author\": {\n+          \"email\": \"bill.beesley@bbeesley.com\",\n+          \"name\": \"Bill Beesley\",\n+          \"username\": \"bbeesley\"\n+        },\n+        \"committer\": {\n+          \"email\": \"bill.beesley@bbeesley.com\",\n+          \"name\": \"Bill Beesley\",\n+          \"username\": \"bbeesley\"\n+        },\n+        \"distinct\": true,\n+        \"id\": \"f8b57b88700ba98f9a997940f719e34662f0e087\",\n+        \"message\": \"ci: chore test js toolkit\",\n+        \"timestamp\": \"2023-02-22T12:54:08Z\",\n+        \"tree_id\": \"ff250761e5dee80d1c3088ff37f79be9e2a0e677\",\n+        \"url\": \"https://github.com/bbeesley/pr-metadata/commit/f8b57b88700ba98f9a997940f719e34662f0e087\"\n+      }\n+    ],\n+    \"compare\": \"https://github.com/bbeesley/pr-metadata/compare/39c9e593b846...f8b57b88700b\",\n+    \"created\": false,\n+    \"deleted\": false,\n+    \"enterprise\": {\n+      \"avatar_url\": \"https://avatars.githubusercontent.com/b/16661?v=4\",\n+      \"created_at\": \"2022-10-21T20:34:12Z\",\n+      \"description\": null,\n+      \"html_url\": \"https://github.com/enterprises/bbeesley\",\n+      \"id\": 16661,\n+      \"name\": \"bbeesley \",\n+      \"node_id\": \"E_kgDNQRU\",\n+      \"slug\": \"bbeesley\",\n+      \"updated_at\": \"2022-12-08T17:55:48Z\",\n+      \"website_url\": null\n+    },\n+    \"forced\": false,\n+    \"head_commit\": {\n+      \"author\": {\n+        \"email\": \"bill.beesley@bbeesley.com\",\n+        \"name\": \"Bill Beesley\",\n+        \"username\": \"bbeesley\"\n+      },\n+      \"committer\": {\n+        \"email\": \"bill.beesley@bbeesley.com\",\n+        \"name\": \"Bill Beesley\",\n+        \"username\": \"bbeesley\"\n+      },\n+      \"distinct\": true,\n+      \"id\": \"f8b57b88700ba98f9a997940f719e34662f0e087\",\n+      \"message\": \"ci: chore test js toolkit\",\n+      \"timestamp\": \"2023-02-22T12:54:08Z\",\n+      \"tree_id\": \"ff250761e5dee80d1c3088ff37f79be9e2a0e677\",\n+      \"url\": \"https://github.com/bbeesley/pr-metadata/commit/f8b57b88700ba98f9a997940f719e34662f0e087\"\n+    },\n+    \"organization\": {\n+      \"avatar_url\": \"https://avatars.githubusercontent.com/u/21021?v=4\",\n+      \"description\": \"\",\n+      \"events_url\": \"https://api.github.com/orgs/bbeesley/events\",\n+      \"hooks_url\": \"https://api.github.com/orgs/bbeesley/hooks\",\n+      \"id\": 21021,\n+      \"issues_url\": \"https://api.github.com/orgs/bbeesley/issues\",\n+      \"login\": \"bbeesley\",\n+      \"members_url\": \"https://api.github.com/orgs/bbeesley/members{/member}\",\n+      \"node_id\": \"MDEyOk9yZ2FuaXphdGlvbjIxMDIx\",\n+      \"public_members_url\": \"https://api.github.com/orgs/bbeesley/public_members{/member}\",\n+      \"repos_url\": \"https://api.github.com/orgs/bbeesley/repos\",\n+      \"url\": \"https://api.github.com/orgs/bbeesley\"\n+    },\n+    \"pusher\": {\n+      \"email\": \"bbeesley@users.noreply.github.com\",\n+      \"name\": \"bbeesley\"\n+    },\n+    \"ref\": \"refs/heads/test-branch\",\n+    \"repository\": {\n+      \"allow_forking\": true,\n+      \"archive_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/{archive_format}{/ref}\",\n+      \"archived\": false,\n+      \"assignees_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/assignees{/user}\",\n+      \"blobs_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/git/blobs{/sha}\",\n+      \"branches_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/branches{/branch}\",\n+      \"clone_url\": \"https://github.com/bbeesley/pr-metadata.git\",\n+      \"collaborators_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/collaborators{/collaborator}\",\n+      \"comments_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/comments{/number}\",\n+      \"commits_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/commits{/sha}\",\n+      \"compare_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/compare/{base}...{head}\",\n+      \"contents_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/contents/{+path}\",\n+      \"contributors_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/contributors\",\n+      \"created_at\": 1674576214,\n+      \"default_branch\": \"master\",\n+      \"deployments_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/deployments\",\n+      \"description\": \"Terraform definition for modules and shared infrastructure\",\n+      \"disabled\": false,\n+      \"downloads_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/downloads\",\n+      \"events_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/events\",\n+      \"fork\": false,\n+      \"forks\": 0,\n+      \"forks_count\": 0,\n+      \"forks_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/forks\",\n+      \"full_name\": \"bbeesley/pr-metadata\",\n+      \"git_commits_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/git/commits{/sha}\",\n+      \"git_refs_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/git/refs{/sha}\",\n+      \"git_tags_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/git/tags{/sha}\",\n+      \"git_url\": \"git://github.com/bbeesley/pr-metadata.git\",\n+      \"has_discussions\": false,\n+      \"has_downloads\": true,\n+      \"has_issues\": true,\n+      \"has_pages\": false,\n+      \"has_projects\": true,\n+      \"has_wiki\": true,\n+      \"homepage\": null,\n+      \"hooks_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/hooks\",\n+      \"html_url\": \"https://github.com/bbeesley/pr-metadata\",\n+      \"id\": 592823249,\n+      \"is_template\": false,\n+      \"issue_comment_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/issues/comments{/number}\",\n+      \"issue_events_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/issues/events{/number}\",\n+      \"issues_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/issues{/number}\",\n+      \"keys_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/keys{/key_id}\",\n+      \"labels_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/labels{/name}\",\n+      \"language\": \"HCL\",\n+      \"languages_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/languages\",\n+      \"license\": null,\n+      \"master_branch\": \"master\",\n+      \"merges_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/merges\",\n+      \"milestones_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/milestones{/number}\",\n+      \"mirror_url\": null,\n+      \"name\": \"tf-common\",\n+      \"node_id\": \"R_kgDOI1XD0Q\",\n+      \"notifications_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/notifications{?since,all,participating}\",\n+      \"open_issues\": 4,\n+      \"open_issues_count\": 4,\n+      \"organization\": \"bbeesley\",\n+      \"owner\": {\n+        \"avatar_url\": \"https://avatars.githubusercontent.com/u/21021?v=4\",\n+        \"email\": null,\n+        \"events_url\": \"https://api.github.com/users/bbeesley/events{/privacy}\",\n+        \"followers_url\": \"https://api.github.com/users/bbeesley/followers\",\n+        \"following_url\": \"https://api.github.com/users/bbeesley/following{/other_user}\",\n+        \"gists_url\": \"https://api.github.com/users/bbeesley/gists{/gist_id}\",\n+        \"gravatar_id\": \"\",\n+        \"html_url\": \"https://github.com/bbeesley\",\n+        \"id\": 21021,\n+        \"login\": \"bbeesley\",\n+        \"name\": \"bbeesley\",\n+        \"node_id\": \"MDEyOk9yZ2FuaXphdGlvbjIxMDIx\",\n+        \"organizations_url\": \"https://api.github.com/users/bbeesley/orgs\",\n+        \"received_events_url\": \"https://api.github.com/users/bbeesley/received_events\",\n+        \"repos_url\": \"https://api.github.com/users/bbeesley/repos\",\n+        \"site_admin\": false,\n+        \"starred_url\": \"https://api.github.com/users/bbeesley/starred{/owner}{/repo}\",\n+        \"subscriptions_url\": \"https://api.github.com/users/bbeesley/subscriptions\",\n+        \"type\": \"Organization\",\n+        \"url\": \"https://api.github.com/users/bbeesley\"\n+      },\n+      \"private\": true,\n+      \"pulls_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/pulls{/number}\",\n+      \"pushed_at\": 1677070450,\n+      \"releases_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/releases{/id}\",\n+      \"size\": 555,\n+      \"ssh_url\": \"git@github.com:bbeesley/pr-metadata.git\",\n+      \"stargazers\": 0,\n+      \"stargazers_count\": 0,\n+      \"stargazers_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/stargazers\",\n+      \"statuses_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/statuses/{sha}\",\n+      \"subscribers_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/subscribers\",\n+      \"subscription_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/subscription\",\n+      \"svn_url\": \"https://github.com/bbeesley/pr-metadata\",\n+      \"tags_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/tags\",\n+      \"teams_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/teams\",\n+      \"topics\": [],\n+      \"trees_url\": \"https://api.github.com/repos/bbeesley/pr-metadata/git/trees{/sha}\",\n+      \"updated_at\": \"2023-01-27T13:12:14Z\",\n+      \"url\": \"https://github.com/bbeesley/pr-metadata\",\n+      \"visibility\": \"internal\",\n+      \"watchers\": 0,\n+      \"watchers_count\": 0,\n+      \"web_commit_signoff_required\": false\n+    },\n+    \"sender\": {\n+      \"avatar_url\": \"https://avatars.githubusercontent.com/u/1926537?v=4\",\n+      \"events_url\": \"https://api.github.com/users/bbeesley/events{/privacy}\",\n+      \"followers_url\": \"https://api.github.com/users/bbeesley/followers\",\n+      \"following_url\": \"https://api.github.com/users/bbeesley/following{/other_user}\",\n+      \"gists_url\": \"https://api.github.com/users/bbeesley/gists{/gist_id}\",\n+      \"gravatar_id\": \"\",\n+      \"html_url\": \"https://github.com/bbeesley\",\n+      \"id\": 1926537,\n+      \"login\": \"bbeesley\",\n+      \"node_id\": \"MDQ6VXNlcjE5MjY1Mzc=\",\n+      \"organizations_url\": \"https://api.github.com/users/bbeesley/orgs\",\n+      \"received_events_url\": \"https://api.github.com/users/bbeesley/received_events\",\n+      \"repos_url\": \"https://api.github.com/users/bbeesley/repos\",\n+      \"site_admin\": false,\n+      \"starred_url\": \"https://api.github.com/users/bbeesley/starred{/owner}{/repo}\",\n+      \"subscriptions_url\": \"https://api.github.com/users/bbeesley/subscriptions\",\n+      \"type\": \"User\",\n+      \"url\": \"https://api.github.com/users/bbeesley\"\n+    }\n+  },\n+  \"eventName\": \"push\",\n+  \"sha\": \"f8b57b88700ba98f9a997940f719e34662f0e087\",\n+  \"ref\": \"refs/heads/test-branch\",\n+  \"workflow\": \"Test toolkit\",\n+  \"action\": \"__run_2\",\n+  \"actor\": \"bbeesley\",\n+  \"job\": \"terraform\",\n+  \"runNumber\": 9,\n+  \"runId\": 4242900520,\n+  \"apiUrl\": \"https://api.github.com\",\n+  \"serverUrl\": \"https://github.com\",\n+  \"graphqlUrl\": \"https://api.github.com/graphql\"\n+}"
+    },
+    {
+      "sha": "59103b3756102d495eb89bfae231927a70a03163",
+      "filename": "src/get-changed-files.test.ts",
+      "status": "added",
+      "additions": 97,
+      "deletions": 0,
+      "changes": 97,
+      "blob_url": "https://github.com/bbeesley/pr-metadata/blob/1b5d9e1f2ef8a0a4d19f3d21867e550752157fa2/src%2Fget-changed-files.test.ts",
+      "raw_url": "https://github.com/bbeesley/pr-metadata/raw/1b5d9e1f2ef8a0a4d19f3d21867e550752157fa2/src%2Fget-changed-files.test.ts",
+      "contents_url": "https://api.github.com/repos/bbeesley/pr-metadata/contents/src%2Fget-changed-files.test.ts?ref=1b5d9e1f2ef8a0a4d19f3d21867e550752157fa2",
+      "patch": "@@ -0,0 +1,97 @@\n+import test from 'ava';\n+import { getChangedFiles } from './get-changed-files.js';\n+\n+test.serial(\n+  'returns filenames when no args passed',\n+  async (t) => {\n+    const result = await getChangedFiles();\n+    const calls = mockS3.calls();\n+    t.true(calls.length === 1);\n+    const call = calls.shift();\n+    const { Bucket, Key } = call?.args[0].input ?? {};\n+    t.snapshot({ Bucket, Key });\n+  },\n+);\n+test.serial('uploads 2 assets to s3 when layers are enabled', async (t) => {\n+  await packageAndUpload({\n+    platform: Platform.AWS,\n+    inputPath: './',\n+    exclude: ['**/typescript/**'],\n+    createLayer: true,\n+    region: 'eu-central-1',\n+    bucket: 'test-bucket',\n+    functionKey: 'fn',\n+    layerKey: 'layer',\n+  });\n+  const calls = mockS3.calls();\n+  t.true(calls.length === 2);\n+  const firstCall = calls.shift();\n+  const { Bucket: FirstBucket, Key: FirstKey } = firstCall?.args[0].input ?? {};\n+  t.snapshot({ Bucket: FirstBucket, Key: FirstKey });\n+  const secondCall = calls.shift();\n+  const { Bucket: SecondBucket, Key: SecondKey } =\n+    secondCall?.args[0].input ?? {};\n+  t.snapshot({ Bucket: SecondBucket, Key: SecondKey });\n+});\n+test.serial('wraps the layer node_modules in a nodejs directory', async (t) => {\n+  await packageAndUpload({\n+    platform: Platform.AWS,\n+    inputPath: './',\n+    exclude: ['**/typescript/**'],\n+    createLayer: true,\n+    region: 'eu-central-1',\n+    bucket: 'test-bucket',\n+    functionKey: 'fn',\n+    layerKey: 'layer',\n+  });\n+  const calls = mockS3.calls();\n+  t.true(calls.length === 2);\n+  const secondCall = calls.pop();\n+  const { Body } = secondCall?.args[0].input ?? {};\n+  const buffer = await streamToBuffer(Body);\n+  const zip = new JSZip();\n+  const result = await zip.loadAsync(buffer);\n+  const zipContent = Object.keys(result.files);\n+  t.is(zipContent.shift(), 'nodejs/');\n+  t.true(zipContent.every((name) => name.startsWith('nodejs/')));\n+});\n+\n+test.serial('respects include globs', async (t) => {\n+  await packageAndUpload({\n+    platform: Platform.AWS,\n+    inputPath: './',\n+    include: ['*.json'],\n+    exclude: ['node_modules/**'],\n+    createLayer: false,\n+    region: 'eu-central-1',\n+    bucket: 'test-bucket',\n+    functionKey: 'fn',\n+  });\n+  const calls = mockS3.calls();\n+  const call = calls.pop();\n+  const { Body } = call?.args[0].input ?? {};\n+  const buffer = await streamToBuffer(Body);\n+  const zip = new JSZip();\n+  const result = await zip.loadAsync(buffer);\n+  const zipContent = Object.keys(result.files);\n+  t.truthy(zipContent.find((name) => name === 'package.json'));\n+});\n+test.serial('respects exclude globs', async (t) => {\n+  await packageAndUpload({\n+    platform: Platform.AWS,\n+    inputPath: './',\n+    exclude: ['node_modules/**', '*.json'],\n+    createLayer: false,\n+    region: 'eu-central-1',\n+    bucket: 'test-bucket',\n+    functionKey: 'fn',\n+  });\n+  const calls = mockS3.calls();\n+  const call = calls.pop();\n+  const { Body } = call?.args[0].input ?? {};\n+  const buffer = await streamToBuffer(Body);\n+  const zip = new JSZip();\n+  const result = await zip.loadAsync(buffer);\n+  const zipContent = Object.keys(result.files);\n+  t.falsy(zipContent.find((name) => name === 'package.json'));\n+});"
+    },
+    {
+      "sha": "547230fb52b1e609130e6197723dd9457049ef8c",
+      "filename": "src/get-changed-files.ts",
+      "status": "added",
+      "additions": 36,
+      "deletions": 0,
+      "changes": 36,
+      "blob_url": "https://github.com/bbeesley/pr-metadata/blob/1b5d9e1f2ef8a0a4d19f3d21867e550752157fa2/src%2Fget-changed-files.ts",
+      "raw_url": "https://github.com/bbeesley/pr-metadata/raw/1b5d9e1f2ef8a0a4d19f3d21867e550752157fa2/src%2Fget-changed-files.ts",
+      "contents_url": "https://api.github.com/repos/bbeesley/pr-metadata/contents/src%2Fget-changed-files.ts?ref=1b5d9e1f2ef8a0a4d19f3d21867e550752157fa2",
+      "patch": "@@ -0,0 +1,36 @@\n+import { context, getOctokit } from '@actions/github';\n+import multimatch from 'multimatch';\n+\n+const { GITHUB_TOKEN } = process.env;\n+\n+if (!GITHUB_TOKEN) {\n+   throw new Error('missing github token');\n+}\n+\n+const { rest: client } = getOctokit(GITHUB_TOKEN);\n+\n+export async function getChangedFiles(\n+  dirNames: boolean,\n+  filter?: string[],\n+): Promise<string> {\n+  const base =\n+    (context.payload.pull_request?.base?.sha as string | undefined) ?? 'master';\n+  const head =\n+    (context.payload.pull_request?.head?.sha as string | undefined) ??\n+    (process.env.GITHUB_SHA as string | undefined) ??\n+    'HEAD';\n+\n+  const response = await client.repos.compareCommits({\n+    base,\n+    head,\n+    owner: context.repo.owner,\n+    repo: context.repo.repo,\n+  });\n+  const files = response.data.files?.map(m => m.filename) ?? [];\n+  const filteredFiles = filter && filter.length > 0 ? multimatch(files, filter) : files;\n+  if (dirNames) {\n+    const dirs = [...new Set(filteredFiles.map(f => f.replace(/\\/[^/]+$/, '')))];\n+    return JSON.stringify(dirs);\n+  }\n+  return JSON.stringify(filteredFiles);\n+}"
+    },
+    {
+      "sha": "8b09b1b1827e4c5ca012460d86baed2d0632e450",
+      "filename": "src/index.ts",
+      "status": "added",
+      "additions": 1,
+      "deletions": 0,
+      "changes": 1,
+      "blob_url": "https://github.com/bbeesley/pr-metadata/blob/1b5d9e1f2ef8a0a4d19f3d21867e550752157fa2/src%2Findex.ts",
+      "raw_url": "https://github.com/bbeesley/pr-metadata/raw/1b5d9e1f2ef8a0a4d19f3d21867e550752157fa2/src%2Findex.ts",
+      "contents_url": "https://api.github.com/repos/bbeesley/pr-metadata/contents/src%2Findex.ts?ref=1b5d9e1f2ef8a0a4d19f3d21867e550752157fa2",
+      "patch": "@@ -0,0 +1 @@\n+export * from './get-changed-files.js';"
+    },
+    {
+      "sha": "ff5454430e6da84a6ccc619bbd3b864912a6e308",
+      "filename": "test-script.mjs",
+      "status": "added",
+      "additions": 18,
+      "deletions": 0,
+      "changes": 18,
+      "blob_url": "https://github.com/bbeesley/pr-metadata/blob/1b5d9e1f2ef8a0a4d19f3d21867e550752157fa2/test-script.mjs",
+      "raw_url": "https://github.com/bbeesley/pr-metadata/raw/1b5d9e1f2ef8a0a4d19f3d21867e550752157fa2/test-script.mjs",
+      "contents_url": "https://api.github.com/repos/bbeesley/pr-metadata/contents/test-script.mjs?ref=1b5d9e1f2ef8a0a4d19f3d21867e550752157fa2",
+      "patch": "@@ -0,0 +1,18 @@\n+import { context, getOctokit } from '@actions/github';\n+\n+const { rest: client } = getOctokit(process.env.GITHUB_TOKEN);\n+\n+console.log(JSON.stringify(context));\n+const base = context.payload.pull_request?.base?.sha ?? 'master';\n+const head = context.payload.pull_request?.head?.sha ?? process.env.GITHUB_SHA;\n+\n+const response = await client.repos.compareCommits({\n+  base,\n+  head,\n+  owner: context.repo.owner,\n+  repo: context.repo.repo,\n+});\n+\n+console.log({ files: response.data.files });\n+\n+console.log(JSON.stringify(response));"
+    },
+    {
+      "sha": "f81cbd8a1efd1667e520f9e7d86308505bbc1dfa",
+      "filename": "tsconfig-lint.json",
+      "status": "added",
+      "additions": 22,
+      "deletions": 0,
+      "changes": 22,
+      "blob_url": "https://github.com/bbeesley/pr-metadata/blob/1b5d9e1f2ef8a0a4d19f3d21867e550752157fa2/tsconfig-lint.json",
+      "raw_url": "https://github.com/bbeesley/pr-metadata/raw/1b5d9e1f2ef8a0a4d19f3d21867e550752157fa2/tsconfig-lint.json",
+      "contents_url": "https://api.github.com/repos/bbeesley/pr-metadata/contents/tsconfig-lint.json?ref=1b5d9e1f2ef8a0a4d19f3d21867e550752157fa2",
+      "patch": "@@ -0,0 +1,22 @@\n+{\n+  \"extends\": \"./tsconfig.json\",\n+  \"include\": [\n+    \"**/*.ts\",\n+    \"**/.*.ts\",\n+    \"**/*.js\",\n+    \"**/*.mjs\",\n+    \"**/*.cjs\",\n+    \"**/.*.js\",\n+    \"**/.*.mjs\",\n+    \"**/.*.cjs\",\n+    \"*.js\",\n+    \"*.mjs\",\n+    \"*.cjs\",\n+    \".*.js\",\n+    \".*.mjs\",\n+    \".*.cjs\",\n+    \"*.ts\",\n+    \".*.ts\"\n+  ],\n+  \"exclude\": []\n+}"
+    },
+    {
+      "sha": "76565da3edfbd0bf4bfb1a76ca12dcfd0cffc65c",
+      "filename": "tsconfig.json",
+      "status": "added",
+      "additions": 10,
+      "deletions": 0,
+      "changes": 10,
+      "blob_url": "https://github.com/bbeesley/pr-metadata/blob/1b5d9e1f2ef8a0a4d19f3d21867e550752157fa2/tsconfig.json",
+      "raw_url": "https://github.com/bbeesley/pr-metadata/raw/1b5d9e1f2ef8a0a4d19f3d21867e550752157fa2/tsconfig.json",
+      "contents_url": "https://api.github.com/repos/bbeesley/pr-metadata/contents/tsconfig.json?ref=1b5d9e1f2ef8a0a4d19f3d21867e550752157fa2",
+      "patch": "@@ -0,0 +1,10 @@\n+{\n+  \"extends\": \"@beesley/tsconfig/npm.json\",\n+  \"compilerOptions\": {\n+    \"types\": [\"node\"],\n+    \"declarationDir\": \"dist/types\",\n+    \"outDir\": \"dist/esm\"\n+  },\n+  \"include\": [\"src/**/*.ts\", \"src/*.ts\"],\n+  \"exclude\": [\"src/*.test.*\", \"src/**/*.test.*\", \"src/test/*.ts\"]\n+}"
+    }
+  ]
+}
