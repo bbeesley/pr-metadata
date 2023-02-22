@@ -3,6 +3,9 @@
   "version": "0.0.0",
   "description": "A cli tool for reading information about pull requests within github actions.",
   "type": "module",
+  "publishConfig": {
+    "access": "public"
+  },
   "exports": {
     ".": {
       "types": "./dist/types/index.d.ts",
