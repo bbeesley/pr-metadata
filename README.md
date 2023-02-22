@@ -50,7 +50,7 @@ npx @beesley/pr-metadata --filter 'src/**'
 
 ### getChangedFiles
 
-[src/get-changed-files.ts:13-17](https://github.com/bbeesley/pr-metadata/blob/c612247bc96fc9223e9fba34cd43a9fdf8d889d7/src/get-changed-files.ts#L13-L17 "Source code on GitHub")
+[src/get-changed-files.ts:13-17](https://github.com/bbeesley/pr-metadata/blob/24f7dc12731ac3e232e275bf83013a1d39803c0b/src/get-changed-files.ts#L13-L17 "Source code on GitHub")
 
 Uses github actions metadata to get a list of changes files or directories
 
