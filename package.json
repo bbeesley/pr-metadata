@@ -15,8 +15,12 @@
   "types": "./dist/types/index.d.ts",
   "files": [
     "dist",
-    "src"
+    "src",
+    "bin"
   ],
+  "bin": {
+    "run": "bin/run.cjs"
+  },
   "scripts": {
     "test": "ava",
     "pretest": "npm run lint && npm run compile",
@@ -25,7 +29,7 @@
     "compile:esm": "tsc -p tsconfig.json",
     "compile:cjs": "babel src --out-dir dist/cjs --extensions '.ts,.cjs,.mjs' --ignore '**/*.test.ts' --source-maps --out-file-extension '.cjs'",
     "compile": "run-p compile:*",
-    "documentation": "npx documentation readme src/* --github  --require-extension=ts --parse-extension=ts --section=api --shallow",
+    "documentation": "npx documentation readme src/get-changed-files.ts --github  --require-extension=ts --parse-extension=ts --section=api --shallow",
     "prerelease": "run-p compile documentation",
     "release": "npx semantic-release"
   },

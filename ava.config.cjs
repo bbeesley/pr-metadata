@@ -13,4 +13,5 @@ module.exports = {
     '--experimental-specifier-resolution=node',
   ],
   timeout: '1m',
+  snapshotDir: '__snapshots__',
 };
